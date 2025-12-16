@@ -53,6 +53,7 @@
       "fulltext": "lyrics/05.txt"
     },
     {
+      "uid": "GD-06",
       "title": "Завтра Настанет Всегда",
       "audio": "audio/06.mp3",
       "lyrics": "lyrics/06.json",
@@ -60,6 +61,7 @@
       "fulltext": "lyrics/06.txt"
     },
     {
+      "uid": "GD-07",
       "title": "Упала Слеза",
       "audio": "audio/07.mp3",
       "lyrics": "lyrics/07.json",
@@ -67,6 +69,7 @@
       "fulltext": "lyrics/07.txt"
     },
     {
+      "uid": "GD-08",
       "title": "Путеводная Звезда",
       "audio": "audio/08.mp3",
       "lyrics": "lyrics/08.json",
@@ -74,6 +77,7 @@
       "fulltext": "lyrics/08.txt"
     },
     {
+      "uid": "GD-09",
       "title": "Мелодии Дождей",
       "audio": "audio/09.mp3",
       "lyrics": "lyrics/09.json",
@@ -81,6 +85,7 @@
       "fulltext": "lyrics/09.txt"
     },
     {
+      "uid": "GD-10",
       "title": "Прекрасная Ложь",
       "audio": "audio/10.mp3",
       "lyrics": "lyrics/10.json",
@@ -88,6 +93,7 @@
       "fulltext": "lyrics/10.txt"
     },
     {
+      "uid": "GD-11",
       "title": "Одиночество",
       "audio": "audio/11.mp3",
       "lyrics": "lyrics/11.json",
@@ -95,6 +101,7 @@
       "fulltext": "lyrics/11.txt"
     },
     {
+      "uid": "GD-12",
       "title": "Колыбельная",
       "audio": "audio/12.mp3",
       "lyrics": "lyrics/12.json",
@@ -102,6 +109,7 @@
       "fulltext": "lyrics/12.txt"
     },
     {
+      "uid": "GD-13",
       "title": "Улыбка Весны",
       "audio": "audio/13.mp3",
       "lyrics": "lyrics/13.json",
@@ -109,6 +117,7 @@
       "fulltext": "lyrics/13.txt"
     },
     {
+      "uid": "GD-14",
       "title": "Лёд",
       "audio": "audio/14.mp3",
       "lyrics": "lyrics/14.json",
