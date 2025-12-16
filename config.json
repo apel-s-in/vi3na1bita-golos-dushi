@@ -17,7 +17,8 @@
       "audio": "audio/01.mp3",
       "lyrics": "lyrics/01.json",
       "size": 11.79,
-      "fulltext": "lyrics/01.txt"
+      "fulltext": "lyrics/01.txt",
+      "uid": "GD-01"
     },
     {
       "title": "Цена Счастья",
