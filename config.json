@@ -13,14 +13,15 @@
   ],
   "tracks": [
     {
+      "uid": "GD-01",
       "title": "Волна",
       "audio": "audio/01.mp3",
       "lyrics": "lyrics/01.json",
       "size": 11.79,
-      "fulltext": "lyrics/01.txt",
-      "uid": "GD-01"
+      "fulltext": "lyrics/01.txt"
     },
     {
+      "uid": "GD-02",
       "title": "Цена Счастья",
       "audio": "audio/02.mp3",
       "lyrics": "lyrics/02.json",
@@ -28,6 +29,7 @@
       "fulltext": "lyrics/02.txt"
     },
     {
+      "uid": "GD-03",
       "title": "Гадкая",
       "audio": "audio/03.mp3",
       "lyrics": "lyrics/03.json",
@@ -35,6 +37,7 @@
       "fulltext": "lyrics/03.txt"
     },
     {
+      "uid": "GD-04",
       "title": "Голос Души",
       "audio": "audio/04.mp3",
       "lyrics": "lyrics/04.json",
@@ -42,6 +45,7 @@
       "fulltext": "lyrics/04.txt"
     },
     {
+      "uid": "GD-05",
       "title": "Ангел",
       "audio": "audio/05.mp3",
       "lyrics": "lyrics/05.json",
